@@ -1,0 +1,5 @@
+.role-heading {}
+
+test-1, test-2-before test.role-button test-2-after, test-2-before test.role-heading test-2-after, test-3 {}
+
+:matches(test-1, test-2-before test.role-button test-2-after, test-2-before test.role-heading test-2-after, test-3) {}
